@@ -7,9 +7,9 @@ function Body(){
     return [
         <div>
 
-            <h1>Daffa Dewa</h1>
+            <h1>Daffa poke</h1>
             <p>ini paragraph</p>
-            
+
         </div>
     ]
 }
