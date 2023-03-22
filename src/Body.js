@@ -7,6 +7,7 @@ function Body(){
     return [
         <div>
             <h1>Daffa Dewa</h1>
+            <p>ini paragraph</p>
         </div>
     ]
 }
